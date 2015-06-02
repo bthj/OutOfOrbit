@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Drop
+  - Drain
+  - PlanetFire
+  - PlanetWater
+  - PlanetAir
+  - PlanetEarth
+  - ElementInstance
+  - Astroid
+  - ElementAir
+  - ElementEarth
+  - ElementWater
+  - ElementFire
+  - Fader
+  - SwitchDiodes
+  - TouchController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - TouchLayer
+  - NoBoundary
+  - clipboard
+  - diode
+  - lounge
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
